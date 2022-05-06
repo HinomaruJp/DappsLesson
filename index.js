@@ -1,4 +1,4 @@
-console.log("hello world");
+console.log("hello world1");
 
 async function myFunction() {
  const provider = await new ethers.providers.web3Provider.(window.ethereum)
