@@ -6,7 +6,6 @@ async function myFunction() {
  alert(blocknumber);
 }
 
-console.log("hello world2");
 window.onload = function(){
   myFunction();
 }
